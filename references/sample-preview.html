@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>示例预览 · 教备神器</title>
+  <style>body{margin:0;background:#f5f5f5;display:flex;justify-content:center;padding:10px}canvas{border:1px solid #e5e5e5;background:#fff}</style>
+</head>
+<body>
+  <canvas id="cv" width="1240" height="1754" style="width:496px;height:700px"></canvas>
+  <script>
+    // 极简示例：画一张米字格 + 一个字，供验证工作流演示
+    var cv = document.getElementById('cv');
+    var ctx = cv.getContext('2d');
+    ctx.fillStyle = '#fff'; ctx.fillRect(0, 0, 1240, 1754);
+    ctx.strokeStyle = '#bbb'; ctx.lineWidth = 1;
+    ctx.strokeRect(560, 200, 120, 120);
+    ctx.fillStyle = '#333'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+    ctx.font = '84px serif'; ctx.fillText('永', 620, 260);
+    window.__ready = true;
+  </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]: 练字字帖
+      - generic [ref=e8]:
+        - text: 输入汉字 → 自动排版 → 一键生成字帖。
+        - text: 支持范字、描红、临写三种模式，6种网格自由切换，教师家长必备的练字工具。
+    - generic [ref=e9]:
+      - generic [ref=e10] [cursor=pointer]:
+        - img [ref=e12]
+        - generic [ref=e13]:
+          - generic [ref=e14]: 方格练字帖
+          - generic [ref=e15]: 9mm方格，适合写汉字、数字、字母
+      - generic [ref=e16] [cursor=pointer]:
+        - img [ref=e18]
+        - generic [ref=e19]:
+          - generic [ref=e20]: 方格练字批改帖
+          - generic [ref=e21]: 方格+批改竖栏，老师点评更方便
+      - generic [ref=e22] [cursor=pointer]:
+        - img [ref=e54]
+        - generic [ref=e27]:
+          - generic [ref=e28]: 字格练字帖
+          - generic [ref=e29]: 田/米/回宫/九宫/方格五种切换，练字基本功
+      - generic [ref=e30] [cursor=pointer]:
+        - img [ref=e55]
+        - generic [ref=e35]:
+          - generic [ref=e36]: 上拼音下字格帖
+          - generic [ref=e37]: 上方拼音行+下方田字格，语文生字标配
+      - generic [ref=e38] [cursor=pointer]:
+        - img [ref=e56]
+        - generic [ref=e43]:
+          - generic [ref=e44]: 横线练字帖
+          - generic [ref=e45]: 横线书写，适合短文、摘抄、日记
+      - generic [ref=e46] [cursor=pointer]:
+        - img [ref=e57]
+        - generic [ref=e51]:
+          - generic [ref=e52]: 拼音格练字帖
+          - generic [ref=e53]: 拼音字母书写练习，双虚线+实线框
+  - text: ✓ ✓
