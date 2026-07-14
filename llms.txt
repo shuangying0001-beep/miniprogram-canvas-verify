@@ -1,0 +1,16 @@
+# 微信小程序 Canvas 预览与视觉验证（miniprogram-canvas-verify）
+
+教备神器 Canvas 工具链的第 4 环：微信小程序 Canvas 预览 + 视觉回归验证。
+
+## 能力
+- 本地静态预览服务（:9099）+ Selenium 执行 JS 截图
+- 按场景 YAML 区域裁剪 + 回归对比
+- 8 项验证清单：白屏 / 线条 / 居中 / 即时重绘 / 导出 / 色值 / 性能 / 兼容
+
+## 触发词
+小程序 Canvas 预览 / 视觉验证 / 回归对比 / Canvas 截图 / 微信小程序测试
+
+## 链接
+- 仓库：https://github.com/shuangying0001-beep/miniprogram-canvas-verify
+- 落地页：https://shuangying0001-beep.github.io/canvas-edu-toolchain/guide-verify.html
+- 工具链：https://shuangying0001-beep.github.io/canvas-edu-toolchain/
